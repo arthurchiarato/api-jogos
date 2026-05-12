@@ -1,0 +1,16 @@
+[
+    {
+        "id": 1,
+        "nome": "The Legend of Zelda",
+        "tipo": "Aventura",
+        "nota": 10,
+        "review": "Um clássico absoluto."
+    },
+    {
+        "id": 2,
+        "nome": "FIFA 23",
+        "tipo": "Esporte",
+        "nota": 7,
+        "review": "Bom para jogar com amigos."
+    }
+]
